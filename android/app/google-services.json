@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "902496285809",
+    "firebase_url": "https://safe-go-98e43-default-rtdb.firebaseio.com",
+    "project_id": "safe-go-98e43",
+    "storage_bucket": "safe-go-98e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902496285809:android:cd6bc77ee9cb73ede957d0",
+        "android_client_info": {
+          "package_name": "com.example.safe_go"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8tBUhDPjA4fS3l--ns0kWBQXlqs5YGps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
